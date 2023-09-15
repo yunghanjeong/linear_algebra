@@ -10,6 +10,7 @@ Collection of linear algebra references.
 - [Matrix Multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication#Non-commutativity)
   - [Properties](https://en.wikipedia.org/wiki/Matrix_multiplication#General_properties)
 - [Symmteric Matrix](https://en.wikipedia.org/wiki/Symmetric_matrix)
+- [Orthogonal Matrix](https://en.wikipedia.org/wiki/Orthogonal_matrix)
 - [Eigenvalues and eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
 - [Singular Value Decomposition (SVD)](https://en.wikipedia.org/wiki/Singular_value_decomposition)
 
