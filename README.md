@@ -11,6 +11,7 @@ Collection of linear algebra references.
   - [Properties](https://en.wikipedia.org/wiki/Matrix_multiplication#General_properties)
 - [Symmteric Matrix](https://en.wikipedia.org/wiki/Symmetric_matrix)
 - [Eigenvalues and eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
+- [Singular Value Decomposition (SVD)](https://en.wikipedia.org/wiki/Singular_value_decomposition)
 
 ## Topics
 
