@@ -4,7 +4,12 @@ Collection of linear algebra references.
 
 ## Quick Links
 
-
+- [Matrix Transposition](https://en.wikipedia.org/wiki/Transpose)
+  - [Properties](https://en.wikipedia.org/wiki/Transpose#Properties)
+- [Definite Matrix](https://en.wikipedia.org/wiki/Definite_matrix) also see **positive semi-definite** matrices
+- [Matrix Multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication#Non-commutativity)
+  - [Properties](https://en.wikipedia.org/wiki/Matrix_multiplication#General_properties)
+- [Symmteric Matrix](https://en.wikipedia.org/wiki/Symmetric_matrix)
 
 ## Topics
 
